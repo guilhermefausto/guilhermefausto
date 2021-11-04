@@ -1,7 +1,7 @@
 ## Salve! Eu sou o Guilherme Fausto ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Sou Desenvolvedor Web Backend, atualmente estou me especializando em Java, Spring Framework e também tenho conhecimento em frontend.
+Sou Desenvolvedor Web Backend, atualmente estou me especializando em Java, Spring Framework. Mas também tenho conhecimento em frontend.
 
 Atuo como profissional na área da Tecnologia da Informação desde 2010, sou apaixonado por tecnologia, principalmente em desenvolvimento de software.
 
@@ -11,6 +11,10 @@ Atuo como profissional na área da Tecnologia da Informação desde 2010, sou ap
 - :eyeglasses: Gosto muito de estudar e aprender novas tecnologias
 - :mag: Tenho perfil investigativo, exímio caçador de bugs :)
 - :guitar: Música pra mim é uma terapia 
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <!--
 **guilhermefausto/guilhermefausto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
