@@ -1,5 +1,6 @@
 ## Salve! Eu sou o Guilherme Fausto ! 
 ### Bem vindo ao meu perfil GitHub 👋
+![image title](https://rushter.com/counter.svg)
 
 Sou Desenvolvedor Web Backend, especializado em Java, Spring Framework. Além disso tenho conhecimento em frontend e me aventuro no JavaScript.
 
