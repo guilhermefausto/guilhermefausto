@@ -6,7 +6,7 @@ Sou Desenvolvedor Web Backend, especializado em Java, Spring Framework. Além di
 Atuo como profissional na área da Tecnologia da Informação desde 2010, sou apaixonado por tecnologia, principalmente em desenvolvimento de software.
 
 
-- 🔭 Estou à procura de oportunidade para trabalhar com desenvolvimento.
+- 🔭 Estou à procura de oportunidade voltar a trabalhar profissionalmente com desenvolvimento.
 - :muscle: Atualmente trabalho como Administrador de Redes e Servidores Linux na UERJ
 - :eyeglasses: Gosto muito de estudar e aprender novas tecnologias
 - :mag: Tenho perfil investigativo, exímio caçador de bugs :)
