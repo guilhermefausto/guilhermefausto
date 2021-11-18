@@ -24,6 +24,8 @@ Atuo como profissional na área da Tecnologia da Informação desde 2010, sou ap
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrum/scrum-original.svg"/>
 </div>
 <!--
 
