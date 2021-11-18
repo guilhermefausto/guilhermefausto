@@ -10,7 +10,7 @@ Atuo como profissional na área da Tecnologia da Informação desde 2010, sou ap
 - 🔭 Estou à procura de oportunidade para voltar a trabalhar profissionalmente com desenvolvimento.
 - :muscle: Atualmente trabalho como Administrador de Redes e Servidores Linux na UERJ
 - :eyeglasses: Gosto muito de estudar e aprender novas tecnologias
-- :mag: Tenho perfil investigativo, e gosto de explorar novas tecnologias.
+- :mag: Tenho perfil investigativo, resolver bugs é comigo mesmo!
 - :guitar: Música pra mim é uma terapia.
 
 <div align="center">
