@@ -14,8 +14,9 @@ Atuo como profissional na área da Tecnologia da Informação desde 2010, sou ap
 - :guitar: Música pra mim é uma terapia 
 
 <div align="center">
+    <a href="https://github.com/guilhermefausto">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=guilhermefausto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top_langs?username=guilhermefausto&theme=dark&layout=compact&langs_count=7"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermefausto&theme=dark&layout=compact&langs_count=7"/>
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
