@@ -19,6 +19,9 @@ Atuo como profissional na área da Tecnologia da Informação desde 2010, sou ap
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermefausto&theme=dark&layout=compact&langs_count=7"/>
 </div>
 
+<div style="display: inline_block"> <br>
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-svg">
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 <!--
 
