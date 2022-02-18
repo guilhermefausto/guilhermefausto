@@ -2,12 +2,12 @@
 ### Bem vindo ao meu perfil GitHub 👋
 ![](https://komarev.com/ghpvc/?username=guilhermefausto&color=blue)
 
-Sou Desenvolvedor Web Backend, especializado em Java, Spring Framework. Além disso tenho conhecimentos fundamentais em frontend e me aventuro no JavaScript.
+Sou Desenvolvedor Web Backend, especializado em Java. Além disso tenho conhecimentos fundamentais em frontend e me aventuro no JavaScript.
 
 Atuo como profissional na área da Tecnologia da Informação desde 2010, sou apaixonado por tecnologia, principalmente em desenvolvimento de software.
 
 
-- 🔭 Estou à procura de oportunidade para voltar a trabalhar profissionalmente com desenvolvimento.
+- 🔭 Software Developer na Alterdata Software.
 - :muscle: Já trabalhei como administrador de banco de dados, desenvolvedor PHP e desenvolvedor Android. E durante um bom tempo trabalhei como Administrador de Redes e Servidores Linux na UERJ
 - :eyeglasses: Gosto muito de estudar e aprender novas tecnologias
 - :mag: Tenho perfil investigativo, gosto de saber como as coisas realmente funcionam. E se for pra resolver bugs, conte sempre comigo!
